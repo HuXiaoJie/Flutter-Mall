@@ -1,5 +1,5 @@
 class RequestUrl {
-  static String BASE_URL = "http://192.168.1.104:8081/mall/";
+  static String BASE_URL = "http://47.93.224.96:8080/mall/";
   static String LOGIN = BASE_URL + "login";
   static String HOME_MAIN = BASE_URL + "mainData";
   static String HOME_TYPE_LIST = BASE_URL + "goodsTypeList";
